@@ -1,0 +1,1 @@
+A basic Python application for forecasting odds in Texas Hold'em poker games. This tool calculates win, lose, and tie probabilities for each player based on their hole cards and the community cards revealed so far. It supports multiple players and provides an intuitive interface for simulating game scenarios.
